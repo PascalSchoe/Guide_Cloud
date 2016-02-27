@@ -1,0 +1,42 @@
+<component name="libraryTable">
+  <library name="GOPATH &lt;guidecloud&gt;">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../gopkg.in" />
+      <root url="file://$PROJECT_DIR$/../gowiki" />
+      <root url="file://$PROJECT_DIR$/../gridfsTest" />
+      <root url="file://$PROJECT_DIR$/../pascal_schönfeld_530005_tessera" />
+      <root url="file://$PROJECT_DIR$/../github.com" />
+      <root url="file://$PROJECT_DIR$/../golang.org" />
+      <root url="file://$PROJECT_DIR$/../tessera" />
+      <root url="file://$PROJECT_DIR$/../tutorial" />
+      <root url="file://$PROJECT_DIR$/../pamao" />
+    </CLASSES>
+    <SOURCES />
+    <excluded>
+      <root url="file://$PROJECT_DIR$/../tessera/.idea" />
+      <root url="file://$PROJECT_DIR$/../tutorial/.git" />
+      <root url="file://$PROJECT_DIR$/../pascal_schönfeld_530005_tessera/.idea" />
+      <root url="file://$PROJECT_DIR$/../tessera/.git" />
+      <root url="file://$PROJECT_DIR$/../golang.org/x/image/.git" />
+      <root url="file://$PROJECT_DIR$/../gridfsTest/.idea" />
+      <root url="file://$PROJECT_DIR$/../github.com/codegangsta/negroni/.git" />
+      <root url="file://$PROJECT_DIR$/../golang.org/x/image/testdata" />
+      <root url="file://$PROJECT_DIR$/../gopkg.in/unrolled/render.v1/.git" />
+      <root url="file://$PROJECT_DIR$" />
+      <root url="file://$PROJECT_DIR$/../github.com/mattn/go-sqlite3/.git" />
+      <root url="file://$PROJECT_DIR$/../gowiki/.idea" />
+      <root url="file://$PROJECT_DIR$/../golang.org/x/image/font/testdata" />
+      <root url="file://$PROJECT_DIR$/../github.com/russross/blackfriday/.git" />
+      <root url="file://$PROJECT_DIR$/../github.com/mattn/go-sqlite3/_example" />
+      <root url="file://$PROJECT_DIR$/../github.com/russross/blackfriday/testdata" />
+      <root url="file://$PROJECT_DIR$/../github.com/shurcooL/sanitized_anchor_name/.git" />
+      <root url="file://$PROJECT_DIR$/../tutorial/.idea" />
+      <root url="file://$PROJECT_DIR$/../pamao/.idea" />
+      <root url="file://$PROJECT_DIR$/../github.com/disintegration/imaging/.git" />
+      <root url="file://$PROJECT_DIR$/../pamao/.openshift" />
+      <root url="file://$PROJECT_DIR$/../github.com/julienschmidt/httprouter/.git" />
+      <root url="file://$PROJECT_DIR$/../pascal_schönfeld_530005_tessera/.git" />
+      <root url="file://$PROJECT_DIR$/../pamao/.git" />
+    </excluded>
+  </library>
+</component>
